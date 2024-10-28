@@ -1,5 +1,8 @@
 # Stencil-Jig
 
+## Modifications by riacob
+- Convert bearings to 608zz type
+
 <img src="docs/stenciljig_complete1.JPG" width="805px"></a>
 <img src="docs/stenciljig_complete_closed.png" width="400px"></a>
 <img src="docs/stenciljig_complete_opened.png" width="400px"></a>
